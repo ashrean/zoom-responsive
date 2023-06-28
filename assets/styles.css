@@ -1,0 +1,123 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    background-color: rgb(236, 188, 196);
+    padding: 10px;
+    gap: 0.7rem
+}
+
+.grid-item-1{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.grid-item-2{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.grid-item-3{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item-4{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item-5{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item-6{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item-7{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item-8{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item-9{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item-10{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item-11{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item-12{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item-13{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item-14{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item-15{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.grid-item-16{
+    background-color: beige;
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
